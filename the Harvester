@@ -1,0 +1,2 @@
+┌──(vishnu㉿kali)-[~/Desktop]
+└─$ theHarvester -d www.google.com -l 300 -b all -f test           
